@@ -36,8 +36,12 @@ Configure Roles. Make sure user is on Admin Panel -> Select: Agents -> Roles. Ad
 <br />
 
 <p>
-<img src="https://i.imgur.com/OyrwKWh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Configure
+<img src="https://i.imgur.com/uA0gl93.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Departments. Make sure user is on Admin Panel -> Select:Agents -> Departments. Add new department and name 'System Administrator.' 
+
+
 </p>
 <br />
 
@@ -51,9 +55,17 @@ Configure Teams. Make sure user is on Admin Panel -> Select: Agents -> Teams. Ad
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4jSgILo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure Agents (workers). Make sure user is on Admin Panel -> Select: Agents -> Add New. Add Agents. 
+
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/Y3Cb5Cw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Users (customers). Make sure user is on Agent Panel -> Select: Users -> Add New. Add new Users. 
+
